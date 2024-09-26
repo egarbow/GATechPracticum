@@ -7,5 +7,4 @@
 ### Data setup
 ```
 1. Run getData.sh in the repository directory, this will download the public dataset from kaggle
-2. Run 'tar -xf data.tar.gz' in the repository directory to extract the data
 ```
